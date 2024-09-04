@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> All code moved to new monorepo at https://github.com/angeloocana/JumpOverJump
+
 # joj-terminal
 
 [![Build Status](https://travis-ci.org/angeloocana/joj-terminal.svg)](https://travis-ci.org/angeloocana/joj-terminal)
